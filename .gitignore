@@ -10,3 +10,9 @@ sites/common_site_config.json
 sites/assets/
 config/pids/
 *.rdb
+
+# debug artifacts
+cmp.json
+open.json
+pr.json
+pr_bluehub_import.json
