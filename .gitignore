@@ -1,0 +1,11 @@
+env/
+node_modules/
+sites/*/site_config.json
+sites/common_site_config.json
+sites/*/private/*
+sites/*/backups/*
+logs/
+*.log
+*.rdb
+config/pids/
+assets/.build
